@@ -1,0 +1,11 @@
+{
+  "arrowParens": true,
+  "bracketSpacing": false,
+  "disableLanguages": ["json"],
+  "eslintIntegration": true,
+  "jsonEnable": [],
+  "jsxBracketSameLine": true,
+  "printWidth": 120,
+  "singleQuote": true,
+  "tabWidth": 2
+}
